@@ -1,4 +1,4 @@
-# MLOps Pipeline - Classifying Disaster Response Messages for Figure Eight
+# Classifying Disaster Response Messages (Figure Eight)
 
 ## Project Description (To be completed)
 
