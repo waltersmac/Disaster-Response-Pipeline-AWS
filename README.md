@@ -1,4 +1,4 @@
-# Classifying Disaster Response Messages (Figure Eight)
+# Classifying Disaster Response Messages
 
 ## Project Description (To be completed)
 
