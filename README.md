@@ -1,7 +1,5 @@
 # Classifying Disaster Response Messages
 
-## Project Description (To be completed)
-
 ## Project Organisation (Possible structure - To be completed)
     
     ├── Dockerfile
