@@ -1,6 +1,6 @@
 # Classifying Disaster Response Messages
 
-## Project Organisation (Possible structure - To be completed)
+## Project Organisation (To be completed)
     
     ├── Dockerfile
     ├── requirements.txt
